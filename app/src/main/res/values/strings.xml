@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OperrQuiz</string>
+    <string name="permission_denied">Permission is denied! Some functions will not work properly!</string>
+    <string name="label_unknown">Unknown</string>
+    <string name="label_name">"Name: "</string>
+    <string name="label_address">"Address: "</string>
+    <string name="label_cate">"Categories: "</string>
+    <string name="label_phone">"Phone: "</string>
+</resources>
