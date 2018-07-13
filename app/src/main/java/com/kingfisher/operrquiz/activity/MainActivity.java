@@ -26,10 +26,15 @@ public class MainActivity extends RequestPermissionActivity {
                 .commit();
 
         showTest();
+        test2();
 
     }
 
     private void showTest(){
         // This is a test function which should be tested only
+    }
+
+    private void test2(){
+
     }
 }
