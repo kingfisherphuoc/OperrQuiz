@@ -25,5 +25,11 @@ public class MainActivity extends RequestPermissionActivity {
                 .add(R.id.frameContainer, new RestaurantMapFragment())
                 .commit();
 
+        showTest();
+
+    }
+
+    private void showTest(){
+        // This is a test function which should be tested only
     }
 }
